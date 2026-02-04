@@ -13,7 +13,7 @@
 
 // ========== 설정 상수 ==========
 #define TEMP_NORMAL_MAX      85   // 일반 최대 온도 (°C)
-#define TEMP_HIGH_MAX        105  // 고온 최대 온도 (°C) - 수정 필요
+#define TEMP_HIGH_MAX        200  // 고온 최대 온도 (°C) - 수정 필요
 #define TEMP_CRITICAL        120  // 임계 온도
 #define BOOT_RETRY_MAX       3    // 최대 재시도 횟수
 
